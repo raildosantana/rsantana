@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Formulario</title>
+      <link>/contact/formulario/</link>
+      <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/formulario/</guid>
+      <description>#Testando a criação de paginas a parti do meu</description>
+    </item>
+    
+    <item>
       <title>Primeiro Post</title>
       <link>/posts/primeiro-post/</link>
       <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>

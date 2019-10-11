@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contacts on Raildo Santana</title>
+    <link>/contact/</link>
+    <description>Recent content in Contacts on Raildo Santana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 11 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Formulario</title>
+      <link>/contact/formulario/</link>
+      <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/formulario/</guid>
+      <description>#Testando a criação de paginas a parti do meu</description>
+    </item>
+    
+  </channel>
+</rss>
