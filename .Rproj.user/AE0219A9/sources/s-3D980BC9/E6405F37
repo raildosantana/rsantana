@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1570745712589.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2195934720",
+    "id" : "E6405F37",
+    "lastKnownWriteTime" : 1570765381,
+    "last_content_update" : 1570765381744,
+    "path" : "~/rsantana/rsantana/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "57,43",
+        "scrollLine" : "40"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
