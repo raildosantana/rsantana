@@ -3,18 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/series/hugo/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <loc>/categories/blog/</loc>
+    <lastmod>2019-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-10-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/categories/"
+                />
   </url>
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/primeiro-post/</loc>
+    <lastmod>2019-10-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/posts/2019-10-11-primeiro-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/posts/primeiro-post/"
+                />
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -28,8 +58,28 @@
   </url>
   
   <url>
+    <loc>/posts/posts/</loc>
+    <lastmod>2019-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/series/hugo/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/render-latex-using-katex/</loc>
     <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/posts/render-latex-using-katex/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/posts/render-latex-using-katex/"
+                />
   </url>
   
   <url>
@@ -50,21 +100,6 @@
   <url>
     <loc>/series/theme/</loc>
     <lastmod>2019-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/categories/"
-                />
   </url>
   
   <url>
@@ -105,11 +140,6 @@
   <url>
     <loc>/tags/themes/</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/blog/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -183,12 +213,12 @@
   </url>
   
   <url>
-    <loc>/tags/golang/</loc>
+    <loc>/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/golang/</loc>
+    <loc>/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -200,6 +230,36 @@
   <url>
     <loc>/posts/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/2019-10-11-primeiro-post/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/posts/primeiro-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/posts/2019-10-11-primeiro-post/"
+                />
+  </url>
+  
+  <url>
+    <loc>/posts/render-latex-using-katex/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/posts/render-latex-using-katex/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/posts/render-latex-using-katex/"
+                />
   </url>
   
   <url>
