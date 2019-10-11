@@ -1,12 +1,13 @@
 ---
-title: Olá, mundo!
+title: Primeiro Post
 author: Raildo Santana
 date: '2019-10-11'
-slug: olamundo
+slug: primeiro-post
 categories: []
 tags: []
 description: ''
 externalLink: ''
 series: []
 ---
-"Ola pessoas"
+
+Olá mundo , vamos ao primeiro post!
